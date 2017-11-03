@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docdock</title>
-    <link>https://nbzhaosq.github.io/</link>
+    <link>https://nbzhaosq.github.io/public/</link>
     <description>Recent content on Docdock</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Nov 2017 14:19:35 +0800</lastBuildDate>
     
-	<atom:link href="https://nbzhaosq.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nbzhaosq.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>https://nbzhaosq.github.io/posts/test/</link>
+      <link>https://nbzhaosq.github.io/public/posts/test/</link>
       <pubDate>Fri, 03 Nov 2017 14:19:35 +0800</pubDate>
       
-      <guid>https://nbzhaosq.github.io/posts/test/</guid>
+      <guid>https://nbzhaosq.github.io/public/posts/test/</guid>
       <description></description>
     </item>
     
