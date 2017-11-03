@@ -1,5 +1,12 @@
 [
 {
+	"uri": "https://nbzhaosq.github.io/posts/test/",
+	"title": "Test",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://nbzhaosq.github.io/categories/",
 	"title": "Categories",
 	"tags": [],
@@ -9,6 +16,13 @@
 {
 	"uri": "https://nbzhaosq.github.io/",
 	"title": "Docdock",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://nbzhaosq.github.io/posts/",
+	"title": "Posts",
 	"tags": [],
 	"description": "",
 	"content": ""
